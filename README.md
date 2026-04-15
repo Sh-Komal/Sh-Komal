@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyNE/giphy.gif" width="35" />
-  <h1>Hi there, I'm Komal Sharma</h1>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=250&section=header&text=Hi!%20I'm%20Komal%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Komal Sharma header" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7550FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+Impactful+UIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1e90ff&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+Impactful+UIs" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +27,7 @@
 
 ---
 
-<h2 align="center">💎 Tech Arsenal</h2>
+<h2 align="center">Tech Arsenal</h2>
 
 <div align="center">
   <p><i>My daily drivers and core architecture toolkit.</i></p>
@@ -42,12 +45,12 @@
 
 ---
 
-<h2 align="center">🚀 Featured Engineering</h2>
+<h2 align="center">Featured Engineering</h2>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Job Hunt HQ</h3>
+      <h3 align="center">Job Hunt HQ</h3>
       <p align="center"><i>A unified, analytics-driven Career Command Center</i></p>
       <b>Stack:</b> <code>Next.js</code>, <code>React</code>, <code>Tailwind</code>, <code>Gemini AI</code><br/><br/>
       I architected this highly customized platform to supercharge my job hunting. It aggregates global job APIs into a centralized 1-click apply feed. I integrated Google Gemini AI to auto-generate context-aware cover letters matching my exact experience to job descriptions in real-time, managed by a comprehensive daily targets dashboard.
@@ -59,7 +62,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💰 Expense Tracker Pro</h3>
+      <h3 align="center">Expense Tracker Pro</h3>
       <p align="center"><i>A production-grade financial analytics tool</i></p>
       <b>Stack:</b> <code>MongoDB</code>, <code>Express</code>, <code>React</code>, <code>Node.js</code><br/><br/>
       A secure full-stack web application built from scratch to demonstrate my progression into backend development and system design. Features JWT-based authentication, complete budget CRUD operations, and real-time frontend data aggregations calculating dynamic analytics. Perfectly bridged a custom Express REST API with a responsive UI.
@@ -75,14 +78,8 @@
 
 ---
 
-<h2 align="center">📊 Impact & Activity</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh-Komal&show_icons=true&theme=tokyonight&hide_border=true&title_color=7550FF&icon_color=7550FF&bg_color=0D1117" alt="Komal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-Komal&theme=tokyonight&hide_border=true&fire=7550FF&ring=7550FF&bg_color=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br />
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sh-Komal&label=Profile%20Views&color=7550FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-Komal&theme=tokyonight&hide_border=true&fire=1e90ff&ring=1e90ff&bg_color=0D1117" alt="GitHub Streak" />
 </div>
