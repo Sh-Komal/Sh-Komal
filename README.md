@@ -48,58 +48,69 @@
 
 <h2 align="center">🚀 Featured Projects & Experience</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="100%" valign="top" colspan="2">
-      <h3 align="center">Avua – AI-Powered Hiring Platform</h3>
-      <p align="center"><i>A scalable AI-driven hiring platform used by recruiters globally</i></p>
-      <div align="center">
-        <b>Stack:</b> <code>React.js</code> <code>JavaScript</code> <code>Redux</code> <code>OpenAI API</code> <code>WebRTC</code> <code>OAuth 2.0</code> <code>JWT</code> <code>Stripe</code> <code>Razorpay</code> <code>Tailwind CSS</code><br/><code>Java Spring Boot</code> <code>MongoDB</code> <code>AWS</code> <code>Docker</code> <code>Jenkins CI/CD</code>
-      </div><br/>
-      Engineered and shipped core production features from scratch, including a dynamic drag-and-drop resume builder, real-time AI interview modules utilizing WebRTC & WebSockets, and role-based multi-tenant dashboards. Focused on optimizing complex state management, heavy API integrations, and driving user conversions.
-      <br/><br/>
-      <div align="center">
-        <a href="https://avua.com">
-          <img src="https://img.shields.io/badge/Live_Platform-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">CareerPilot – Job Tracker</h3>
-      <div align="center">
-        <b>Stack:</b> <code>Next.js</code> <code>React.js</code> <code>MongoDB</code> <code>NextAuth.js</code> <code>Google Gemini API</code><br/><code>Mongoose</code> <code>REST APIs</code> <code>OAuth 2.0</code> <code>bcrypt</code> <code>Vercel</code>
-      </div><br/>
-      Full-stack job tracking platform with dual authentication, AI-powered cover letter generation, recruiter CRM, and per-user data isolation. Actively used to track 250+ applications.
-      <br/><br/>
-      <div align="center">
-        <a href="https://myjoblog.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/Sh-Komal/job-hunt-hq">
-          <img src="https://img.shields.io/badge/Source_Code-121011?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Expense Tracker Pro</h3>
-      <div align="center">
-        <b>Stack:</b> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code><br/><code>Tailwind CSS</code> <code>JWT</code> <code>Chart.js</code>
-      </div><br/>
-      Secure MERN-stack financial dashboard with JWT authentication, real-time Chart.js visual analytics, and automated Excel report exports. Deployed using Vercel and Render.
-      <br/><br/>
-      <div align="center">
-        <a href="https://expensaitrax.vercel.app/login">
-          <img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/Sh-Komal/ExpenseTracker">
-          <img src="https://img.shields.io/badge/Source_Code-121011?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<h3 align="center">Avua – AI-Powered Hiring Platform</h3>
+<p align="center"><i>A scalable AI-driven hiring platform used by recruiters globally</i></p>
+<div align="center">
+  <b>Stack:</b> <code>React.js</code> <code>JavaScript</code> <code>Redux</code> <code>OpenAI API</code> <code>WebRTC</code> <code>OAuth 2.0</code> <code>JWT</code> <code>Stripe</code> <code>Razorpay</code> <code>Tailwind CSS</code> <code>Java Spring Boot</code> <code>MongoDB</code> <code>AWS</code> <code>Docker</code> <code>Jenkins CI/CD</code>
+</div>
+<br/>
+<p align="center">
+Engineered and shipped core production features from scratch, including a dynamic drag-and-drop resume builder, real-time AI interview modules utilizing WebRTC & WebSockets, and role-based multi-tenant dashboards. Focused on optimizing complex state management, heavy API integrations, and driving user conversions.
+</p>
+<div align="center">
+  <a href="https://avua.com">
+    <img src="https://img.shields.io/badge/Live_Platform-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<h3 align="center">CareerPilot – Job Tracker</h3>
+<p align="center"><i>Full-stack job tracking platform with AI & auth</i></p>
+<div align="center">
+  <b>Stack:</b> <code>Next.js</code> <code>React.js</code> <code>MongoDB</code> <code>NextAuth.js</code> <code>Google Gemini API</code> <code>Mongoose</code> <code>REST APIs</code> <code>OAuth 2.0</code> <code>bcrypt</code> <code>Vercel</code>
+</div>
+<br/>
+<p align="center">
+Full-stack job tracking platform with dual authentication, AI-powered cover letter generation, recruiter CRM, and per-user data isolation. Actively used to track 250+ applications.
+</p>
+<div align="center">
+  <a href="https://myjoblog.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sh-Komal/job-hunt-hq">
+    <img src="https://img.shields.io/badge/Source_Code-121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<h3 align="center">Expense Tracker Pro</h3>
+<p align="center"><i>Secure MERN-stack financial dashboard</i></p>
+<div align="center">
+  <b>Stack:</b> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Tailwind CSS</code> <code>JWT</code> <code>Chart.js</code>
+</div>
+<br/>
+<p align="center">
+Secure MERN-stack financial dashboard with JWT authentication, real-time Chart.js visual analytics, and automated Excel report exports. Deployed using Vercel and Render.
+</p>
+<div align="center">
+  <a href="https://expensaitrax.vercel.app/login">
+    <img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sh-Komal/ExpenseTracker">
+    <img src="https://img.shields.io/badge/Source_Code-121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
 
 ---
 
